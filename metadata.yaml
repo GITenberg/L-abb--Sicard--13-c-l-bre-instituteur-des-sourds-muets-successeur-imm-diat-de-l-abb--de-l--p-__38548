@@ -14,6 +14,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Ferdinand_Berthier
     - http://en.wikipedia.org/wiki/Ferdinand_Berthier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38548#L-abb--Sicard--13-c-l-bre-instituteur-des-sourds-muets-successeur-imm-diat-de-l-abb--de-l--p-_
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2012-01-11'
 gutenberg_type: Text
