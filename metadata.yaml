@@ -1,0 +1,36 @@
+_repo: L-abb--Sicard--13-c-l-bre-instituteur-des-sourds-muets-successeur-imm-diat-de-l-abb--de-l--p-__38548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berthier, Ferdinand
+    birthdate: 1803
+    deathdate: 1886
+    gutenberg_agent_id: '38569'
+    url: http://www.gutenberg.org/2009/agents/38569
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Ferdinand_Berthier
+    - http://en.wikipedia.org/wiki/Ferdinand_Berthier
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2012-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38548'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teachers of the deaf -- France -- Biography'
+- !lcsh 'Clerc, Laurent, 1785-1869'
+- !lcsh 'Deaf -- Education -- France -- History -- 19th century'
+- !lcsh 'Sicard, Roch Ambroise, 1742-1822'
+- !lcsh 'Deaf -- France -- History -- 19th century'
+- !lcc 'HV'
+- !lcsh 'Massieu, Jean, 1772-1846'
+title: "L'abbé Sicard\r\ncélèbre instituteur des sourds-muets, successeur immédiat\
+  \ de l'abbé de l'Épée"
+url: http://www.gutenberg.org/ebooks/38548
